@@ -1,4 +1,4 @@
-# Hi, there ! <p align="right"> Hi, there !  <img src="https://komarev.com/ghpvc/?username=mkh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mkh-dev" /> </p>
+<p align="left"> Hi, there !</p> <p align="right"> <img src="https://komarev.com/ghpvc/?username=mkh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mkh-dev" /> </p>
 **Welcome to my Github !**
 
 - 👨‍💻 All of my projects are available at [https://malek.github.io](https://malek.github.io)
