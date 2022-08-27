@@ -3,7 +3,7 @@
  [![](https://raw.githubusercontent.com/J-Ymini/J-Ymini/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/J-Ymini/J-Ymini/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=2980b9&animation=fadeIn&height=170&section=header&text=Hi,%20I'm%20Malek%20Khelil%20🖐🏼&fontSize=30&fontColor=ffffff&fontAlignY=33)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2980b9&animation=fadeIn&height=170&section=header&text=Hi,%20I'm%20Malek%20Khelil%20🖐🏻&fontSize=30&fontColor=ffffff&fontAlignY=33)
 
 <!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Ymini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  -->
  
@@ -12,8 +12,8 @@
  
 <!-- ### 🛠 Tech Stack 🛠 -->
  
-***👩🏻‍💻 Techs that I have been using***
- 
+***👨‍💻 Techs that I have been using***
+
  <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
