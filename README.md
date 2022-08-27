@@ -12,7 +12,7 @@
  
 <!-- ### 🛠 Tech Stack 🛠 -->
  
-***👨‍💻 Techs that I have been using***
+***👩🏻‍💻 Techs that I have been using***
  
  <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -37,7 +37,7 @@
  
 <!--  <br/> -->
  
-<!-- ***👩🏻‍💻 Techs that I'm currently interested!*** -->
+<!-- ***🤔 Techs that I'm currently interested!*** -->
 <!--  <br/> -->
 
 <!--   <img src="https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/> -->
