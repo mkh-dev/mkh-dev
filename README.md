@@ -1,4 +1,4 @@
-# Hi, there 👋 !
+# Hi, there !
 
 **Welcome to my Github !**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mkh-dev" /> </p>
