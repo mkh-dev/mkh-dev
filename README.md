@@ -1,7 +1,6 @@
 # Hi, there !
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mkh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mkh-dev" /> </p>
 **Welcome to my Github !**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mkh-dev" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://malek.github.io](https://malek.github.io)
 
