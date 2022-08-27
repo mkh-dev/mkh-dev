@@ -17,7 +17,7 @@
  <br/>
  
  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
  <br />
@@ -52,7 +52,7 @@
 <!--  <br/> -->
 <!--  <br/> -->
  
- ### 😄 Channel & Contact
+ ### 😄 Website & Contact
   <a href="https://jymini.tistory.com/"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Portfolio&logoColor=black"/></a>
  <a href="mailto:dydalsdl1414@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://winter-pond-0a7.notion.site/d562fb0110964e6c9485d29e7c491eca"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a> -->
