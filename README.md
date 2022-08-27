@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<a href="https://www.linkedin.com/in/fsdjin159">
+<a href="https://www.linkedin.com/in/malek-khelil/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn" />
 </a>
 
