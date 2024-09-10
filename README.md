@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Malek</h1>
-<h3 align="center">I am a student at the Private Higher School of Engineering and Technology, pursuing a degree in Computer Science Engineering. I am an avid learner with a great passion for technology and love to explore new domains and build innovative solutions to existing problems.</h3>
+<h1 align="center">Hi🖐🏻, I'm Malek</h1>
+<h3 align="center">I am a student at the Private Higher School of Engineering and Technology, pursuing a degree in Computer Science Engineering. </h3>
 
 - 👨‍💻 All of my projects are available at [https://mkh-dev.github.io/](https://mkh-dev.github.io/)
 
