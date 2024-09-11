@@ -19,21 +19,17 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtMjZkY24xZ2JkYnVlbDllYnN3Z3JpZTdxanVmbmMycGVvb3o2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bhBWbzBjgeSxEjBG9R/giphy.gif"  />
-</div>
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtMjZkY24xZ2JkYnVlbDllYnN3Z3JpZTdxanVmbmMycGVvb3o2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bhBWbzBjgeSxEjBG9R/giphy.gif"  />
 
 ###
 
-<br clear="both">
-
-<h6 align="center">- 🌱 I am a student at the Private Higher School of Engineering and Technology, pursuing a degree in Computer Science Engineering.<br><br>- 📚 I am an avid learner with a great passion for technology and love to explore new domains and build innovative solutions to existing problems.</h6>
+<h6 align="left">- 🌱 I am a student at the Private Higher School of Engineering and Technology, pursuing a degree in Computer Science Engineering.<br><br>- 📚 I am an avid learner with a great passion for technology and love to explore new domains and build innovative solutions to existing problems.</h6>
 
 ###
 
