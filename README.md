@@ -31,6 +31,10 @@
 
 ###
 
+<img align="right" height="280" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtMjZkY24xZ2JkYnVlbDllYnN3Z3JpZTdxanVmbmMycGVvb3o2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bhBWbzBjgeSxEjBG9R/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -74,8 +78,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
@@ -92,11 +94,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
 
 ###
