@@ -28,6 +28,8 @@
 ###
 
 <p align="left">- 🌱 I am a student at the Private Higher School of Engineering and Technology, pursuing a degree in Computer Science Engineering.<br><br>- 📚 I am an avid learner with a great passion for technology and love to explore new domains and build innovative solutions to existing problems.</p>
+###
+###
 
 ###
 
