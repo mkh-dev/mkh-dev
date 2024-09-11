@@ -29,15 +29,13 @@
 
 <p align="left">- 🌱 I am a student at the Private Higher School of Engineering and Technology, pursuing a degree in Computer Science Engineering.<br><br>- 📚 I am an avid learner with a great passion for technology and love to explore new domains and build innovative solutions to existing problems.</p>
 
+
 <br/>
 <br/>
-<br/>
-<br/>
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
