@@ -6,7 +6,7 @@ I am an avid learner with a great passion for technology.<br>
 I love to explore new domains and build innovative solutions to existing problems.
 
 ## About Me
-- 🌱 &nbsp;I’m currently learning Cloud, Devops and Generative AI
+- 🌱 &nbsp;I’m currently learning Cloud, DevOps and Generative AI
 - 👨‍💻 &nbsp;Read more about my projects [here](https://mkh-dev.github.io/portfolio/)
 
 ## Contact
