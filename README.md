@@ -7,7 +7,7 @@ I love to explore new domains and build innovative solutions to existing problem
 
 ## About Me
 - 🌱 &nbsp;I’m currently learning Cloud, Devops and Generative AI
-- 👨‍💻 &nbsp;Read more about my projects [Here](https://mkh-dev.github.io/portfolio/)
+- 👨‍💻 &nbsp;Read more about my projects [here](https://mkh-dev.github.io/portfolio/)
 
 ## Contact
 Feel free to connect with me!
