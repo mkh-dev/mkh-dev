@@ -1,5 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 I'm a Software Engineer Student at the Private Higher School of Engineering and Technology in Tunisia.<br>
 I'm currently pursuing a degree in Computer Science Engineering.<br>
 I am an avid learner with a great passion for technology.<br>
