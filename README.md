@@ -7,7 +7,7 @@ I love to explore new domains and build innovative solutions to existing problem
 
 ## About Me
 - **Location:** Tunisia 🇹🇳  
-- **Education:** Computer Science Engineering Student and Business Intelligence Graduate
+- **Education:** Computer Science Engineering Student and Business Intelligence Graduate 👩🏻💻
 
 ## Skills
 
