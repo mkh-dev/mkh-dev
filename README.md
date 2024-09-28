@@ -1,4 +1,5 @@
-# Hi there!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 
 I'm a Software Engineer Student at the Private Higher School of Engineering and Technology in Tunisia.<br>
 I'm currently pursuing a degree in Computer Science Engineering.<br>
@@ -6,8 +7,8 @@ I am an avid learner with a great passion for technology.<br>
 I love to explore new domains and build innovative solutions to existing problems.
 
 ## About Me
-- **Location:** Tunisia 🇹🇳  
-- **Education:** Computer Science Engineering Student and Business Intelligence Graduate 👩🏻💻
+- 🌱 &nbsp;I’m currently learning Cloud, Devops and Generative AI
+- 👨‍💻 &nbsp;Read more about my projects at [mkh-dev.github.io/portfolio/](https://mkh-dev.github.io/portfolio/)
 
 ## Contact
 Feel free to connect with me!
