@@ -5,9 +5,7 @@ I am an avid learner with a great passion for technology and love to explore new
 
 ## About Me
 - **Location:** Tunisia 🇹🇳  
-- **Experience:** Student 👨‍🎓  
-- **Education:** Computer Science Engineering Student  
-- **Business Intelligence Graduate**
+- **Education:** Computer Science Engineering Student and Business Intelligence Graduate
 
 ## Skills
 
