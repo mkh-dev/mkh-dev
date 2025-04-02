@@ -4,13 +4,12 @@
   </a>
 </h1>
 
+## About Me
 I'm a Software Engineer Student at the Private Higher School of Engineering and Technology.<br>
 I'm currently pursuing a degree in Computer Science Engineering.<br>
 I am an avid learner with a great passion for technology.<br>
 I love to explore new domains and build innovative solutions to existing problems.
 
-## About Me
-- 🌱 &nbsp;I’m currently learning Cloud and DevOps
 
 ## Contact
 Feel free to connect with me!
