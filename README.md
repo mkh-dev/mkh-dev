@@ -11,7 +11,6 @@ I love to explore new domains and build innovative solutions to existing problem
 
 ## About Me
 - 🌱 &nbsp;I’m currently learning Cloud and DevOps
-- 👨‍💻 &nbsp;Read more about my projects [here](https://mkh-dev.github.io/portfolio/)
 
 ## Contact
 Feel free to connect with me!
