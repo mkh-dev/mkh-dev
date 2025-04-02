@@ -4,14 +4,14 @@
   </a>
 </h1>
 
-## About Me
+## ✨ About Me
 I'm a Software Engineer Student at the Private Higher School of Engineering and Technology.<br>
 I'm currently pursuing a degree in Computer Science Engineering.<br>
 I am an avid learner with a great passion for technology.<br>
 I love to explore new domains and build innovative solutions to existing problems.
 
 
-## Contact
+## 📩 Contact
 Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-khelil/) 
