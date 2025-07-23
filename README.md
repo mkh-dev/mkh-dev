@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Joined%20GitHub-2022-blueviolet?style=for-the-badge" alt="Joined GitHub" />
 </p>
 
----
 ## ✨ About Me
 - I'm a Software Engineer Student at the Private Higher School of Engineering and Technology.<br>
 - I'm currently pursuing a degree in Computer Science Engineering.<br>
