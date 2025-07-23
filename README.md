@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Malek+Khelil....;Nice+to+meet+you!&center=true&size=30&color=FFFFFF">
   </a>
 </h1>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mkh-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
